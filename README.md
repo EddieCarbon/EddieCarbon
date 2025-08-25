@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kuba Tomiczek!
+## 👋 Hello, I'm Kuba Tomiczek!
 
 I'm an aspiring Software Engineer passionate about building efficient, scalable, and maintainable applications. Take a look at some of my favorite projects below!
 
