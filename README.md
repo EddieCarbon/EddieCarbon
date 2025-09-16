@@ -9,4 +9,5 @@ I'm an aspiring Software Engineer passionate about building efficient, scalable,
 Feel free to reach out via [Email](mailto:tomiczekkuba01@gmail.com)
 
 Thank you for visiting my profile! Let’s connect and create something amazing together!
+
 [![An image of @eddiecarbon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eddiecarbon)](https://holopin.io/@eddiecarbon)
