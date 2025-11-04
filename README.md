@@ -3,7 +3,7 @@
 I'm an aspiring Software Engineer passionate about building efficient, scalable, and maintainable applications. Take a look at some of my favorite projects below!
 
 ## 🛠️ Technologies I excel at
-- Swift, TypeScript, Go, Python, C#, MongoDB, MySQL, PostgreSQL, GCP, AWS
+- Swift, Go, Python, C#, TS
 
 ## 📫 Connect with Me
 Feel free to reach out via [Email](mailto:tomiczekkuba01@gmail.com)
